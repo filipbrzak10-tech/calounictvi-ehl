@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" preserveAspectRatio="xMidYMid slice"><defs><linearGradient id="t" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4a6d5b"/><stop offset="1" stop-color="#2f4d3f"/></linearGradient></defs><rect width="800" height="500" fill="#e9dccb"/><rect y="380" width="800" height="120" fill="#7d5f45"/>
+<rect y="378" width="800" height="4" fill="rgba(0,0,0,.12)"/><g transform="translate(110,140)">
+<ellipse cx="290" cy="242" rx="310" ry="14" fill="rgba(0,0,0,.18)"/>
+<rect x="40" y="215" width="12" height="25" fill="#3b2a20"/><rect x="528" y="215" width="12" height="25" fill="#3b2a20"/>
+<rect x="40" y="20" width="500" height="130" rx="26" fill="url(#t)" stroke="rgba(0,0,0,.25)" stroke-width="2"/>
+<rect x="0" y="80" width="70" height="140" rx="22" fill="url(#t)" stroke="rgba(0,0,0,.25)" stroke-width="2"/>
+<rect x="510" y="80" width="70" height="140" rx="22" fill="url(#t)" stroke="rgba(0,0,0,.25)" stroke-width="2"/>
+<path d="M70 140 L290 140 L510 140 L510 220 L70 220 Z" fill="url(#t)" stroke="rgba(0,0,0,.3)" stroke-width="2"/>
+<path d="M290 140 L290 220" stroke="rgba(0,0,0,.25)" stroke-width="2"/><rect x="95" y="60" width="90" height="70" rx="14" fill="#d9a86b" opacity=".9" transform="rotate(-6 140 95)"/><rect x="400" y="60" width="90" height="70" rx="14" fill="#efe6d8" opacity=".9" transform="rotate(5 445 95)"/></g></svg>

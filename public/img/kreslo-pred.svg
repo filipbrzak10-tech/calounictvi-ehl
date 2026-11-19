@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" preserveAspectRatio="xMidYMid slice"><defs><pattern id="t" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(30)"><rect width="14" height="14" fill="#cfc5b8"/><rect width="7" height="14" fill="#8e8578" opacity=".35"/></pattern></defs><rect width="800" height="500" fill="#e9e2d6"/><rect y="380" width="800" height="120" fill="#b49a7e"/>
+<rect y="378" width="800" height="4" fill="rgba(0,0,0,.12)"/><g transform="translate(250,90)">
+<ellipse cx="150" cy="292" rx="170" ry="14" fill="rgba(0,0,0,.18)"/>
+<rect x="40" y="250" width="12" height="40" rx="3" fill="#4a3426"/><rect x="248" y="250" width="12" height="40" rx="3" fill="#4a3426"/>
+<path d="M50 30 Q150 -10 250 30 L262 180 L38 180 Z" fill="url(#t)" stroke="rgba(0,0,0,.25)" stroke-width="2"/>
+<path d="M0 110 Q0 80 30 80 L55 80 L55 255 L10 255 Q0 255 0 245 Z" fill="url(#t)" stroke="rgba(0,0,0,.25)" stroke-width="2"/>
+<path d="M300 110 Q300 80 270 80 L245 80 L245 255 L290 255 Q300 255 300 245 Z" fill="url(#t)" stroke="rgba(0,0,0,.25)" stroke-width="2"/>
+<path d="M55 189 Q150 188 245 189 L245 255 L55 255 Z" fill="url(#t)" stroke="rgba(0,0,0,.3)" stroke-width="2"/>
+<path d="M55 214 Q150 218 245 214" stroke="rgba(0,0,0,.18)" stroke-width="3" fill="none"/><path d="M120 60 l18 30 l-10 4 z" fill="#e8dfd2" opacity=".8"/><circle cx="200" cy="120" r="16" fill="#6b5d4e" opacity=".35"/>
+<path d="M150 205 q10 -6 22 2 q-8 10 -22 -2" fill="#e8dfd2" opacity=".9"/><path d="M60 140 q8 20 -2 40" stroke="#e8dfd2" stroke-width="3" fill="none" opacity=".7"/></g><rect width="800" height="500" fill="#8a7a66" opacity=".12"/></svg>

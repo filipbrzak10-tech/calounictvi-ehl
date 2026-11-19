@@ -29,10 +29,11 @@ export const postup = [
 
 // Fotky: nahraj do public/img/ a dopiš sem názvy, např. { pred: "/img/kreslo-pred.jpg", po: "/img/kreslo-po.jpg", popis: "Ušák" }
 export const galerie = [
-  { pred: "", po: "", popis: "Ušák po babičce" },
-  { pred: "", po: "", popis: "Rohová sedačka" },
-  { pred: "", po: "", popis: "Jídelní židle" },
+  { pred: "/img/kreslo-pred.svg", po: "/img/kreslo-po.svg", popis: "Ušák po babičce" },
+  { pred: "/img/sedacka-pred.svg", po: "/img/sedacka-po.svg", popis: "Sedačka" },
+  { pred: "/img/zidle-pred.svg", po: "/img/zidle-po.svg", popis: "Jídelní židle" },
 ];
+// Teď jsou tu ilustrace. Až budou skutečné fotky, nahraj je do public/img/ a přepiš názvy souborů výše.
 // ================= KONEC ÚPRAV =================
 
 // Časté dotazy (používá varianta 2)

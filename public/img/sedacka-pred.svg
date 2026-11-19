@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" preserveAspectRatio="xMidYMid slice"><defs><pattern id="t" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(30)"><rect width="14" height="14" fill="#c9bfae"/><rect width="7" height="14" fill="#9a907f" opacity=".35"/></pattern></defs><rect width="800" height="500" fill="#e6ded1"/><rect y="380" width="800" height="120" fill="#a99278"/>
+<rect y="378" width="800" height="4" fill="rgba(0,0,0,.12)"/><g transform="translate(110,140)">
+<ellipse cx="290" cy="242" rx="310" ry="14" fill="rgba(0,0,0,.18)"/>
+<rect x="40" y="215" width="12" height="25" fill="#3b2a20"/><rect x="528" y="215" width="12" height="25" fill="#3b2a20"/>
+<rect x="40" y="20" width="500" height="130" rx="26" fill="url(#t)" stroke="rgba(0,0,0,.25)" stroke-width="2"/>
+<rect x="0" y="80" width="70" height="140" rx="22" fill="url(#t)" stroke="rgba(0,0,0,.25)" stroke-width="2"/>
+<rect x="510" y="80" width="70" height="140" rx="22" fill="url(#t)" stroke="rgba(0,0,0,.25)" stroke-width="2"/>
+<path d="M70 152 L290 164 L510 152 L510 220 L70 220 Z" fill="url(#t)" stroke="rgba(0,0,0,.3)" stroke-width="2"/>
+<path d="M290 164 L290 220" stroke="rgba(0,0,0,.25)" stroke-width="2"/><path d="M150 170 q14 -8 30 2 q-12 12 -30 -2" fill="#efe6d8" opacity=".85"/><circle cx="420" cy="80" r="22" fill="#5c5245" opacity=".3"/><path d="M500 100 l12 40" stroke="#efe6d8" stroke-width="3" opacity=".6"/></g><rect width="800" height="500" fill="#8a7a66" opacity=".12"/></svg>
